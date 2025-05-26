@@ -1,5 +1,7 @@
 # WordPress-Plugins
-Here i will index all the plugins i made
+
+Here i will house and index the plugins that i have made for WordPress.
+##My plugins are Privacy Focussed, safe and open source.
 
 [WP Dashboard Notes](https://github.com/Smoshed/WP-Dashboard-Notes)
 
