@@ -6,3 +6,4 @@ My plugins are Privacy Focussed, safe and open source.
 - [Dashboard Notes](https://github.com/johnoltmans/JOLT-Dashboard-Notes)
 - [UploadFlex](https://github.com/johnoltmans/JOLT-UploadFlex/tree/main)
 - [LoadSense](https://github.com/johnoltmans/JOLT-LoadSense)
+- [ThemeFork](https://github.com/johnoltmans/JOLT-ThemeFork)
