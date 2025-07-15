@@ -1,10 +1,11 @@
-<h1>WordPress</h1>
+# WordPress
 
-Here i will house and index plugins and themes that i have made for WordPress.<br>
-The plugins and themes are Privacy Focussed, safe and open source.
+Hier zal ik plugins en thema's indexeren die ik heb gemaakt voor WordPress.  
+De plugins en thema's zijn privacygericht, veilig en open source.
 
 ---
-<h3>Plugins</h3>
+
+### Plugins
 
 - [Dashboard Notes](https://github.com/johnoltmans/JOLT-Dashboard-Notes)
 - [UploadFlex](https://github.com/johnoltmans/JOLT-UploadFlex/tree/main)
@@ -13,5 +14,7 @@ The plugins and themes are Privacy Focussed, safe and open source.
 - [JOLT Gate](https://github.com/johnoltmans/JOLT-Gate) (In progress)
 
 ---
-<h3>Themes</h3>
+
+### Thema's
+
 - [JOLT One](https://github.com/johnoltmans/JOLT-One)
