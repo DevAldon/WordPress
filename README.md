@@ -14,3 +14,4 @@ The plugins and themes are Privacy Focussed, safe and open source.
 
 ---
 <h3>Themes</h3>
+- [JOLT One](https://github.com/johnoltmans/JOLT-One)
