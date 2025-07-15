@@ -3,6 +3,8 @@
 Hier zal ik plugins en thema's indexeren die ik heb gemaakt voor WordPress.  
 De plugins en thema's zijn privacygericht, veilig en open source.
 
+![joltlogo](https://github.com/user-attachments/assets/4b9ea314-3c96-495f-9859-e46d65241406)
+
 ---
 
 ### Plugins
