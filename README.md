@@ -17,4 +17,4 @@ De plugins en thema's zijn privacygericht, veilig en open source.
 
 ### Thema's
 
-- [JOLT One](https://github.com/johnoltmans/JOLT-One)
+- [JOLT One](https://github.com/johnoltmans/JOLT-One) (In Progress)
