@@ -14,6 +14,7 @@ De plugins en thema's zijn privacygericht, veilig en open source.
 - [LoadSense](https://github.com/johnoltmans/JOLT-LoadSense)
 - [ThemeFork](https://github.com/johnoltmans/JOLT-ThemeFork)
 - [JOLT Gate](https://github.com/johnoltmans/JOLT-Gate) (In progress)
+- [JOLT Cleanify](https://github.com/johnoltmans/JOLT-Cleanify) (In progress)
 
 ---
 
