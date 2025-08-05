@@ -1,6 +1,6 @@
 # WordPress
 
-<img src="https://github.com/user-attachments/assets/4b9ea314-3c96-495f-9859-e46d65241406" alt="JOLT Logo" width="300" >
+<img src="https://github.com/user-attachments/assets/b2dae062-8ed6-41d5-b57f-264705f01d84" alt="JOLT Logo" width="300" >
 <br>
 Hier zal ik plugins en thema's indexeren die ik heb gemaakt voor WordPress.<br>
 De plugins en thema's zijn privacygericht, veilig en open source.
