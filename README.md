@@ -2,8 +2,8 @@
 
 <img src="https://github.com/user-attachments/assets/b2dae062-8ed6-41d5-b57f-264705f01d84" alt="JOLT Logo" width="300" >
 <br>
-Hier zal ik plugins en thema's indexeren die ik heb gemaakt voor WordPress.<br>
-De plugins en thema's zijn privacygericht, veilig en open source.
+Here I'll be indexing plugins and themes I've created for WordPress.<br>
+The plugins and themes are privacy-focused, secure, and open-source.
 
 ---
 
