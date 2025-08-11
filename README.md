@@ -3,7 +3,7 @@
 <img src="https://github.com/user-attachments/assets/b2dae062-8ed6-41d5-b57f-264705f01d84" alt="JOLT Logo" width="300" >
 <br>
 Here I'll be indexing plugins and themes I've created for WordPress.<br>
-The plugins and themes are privacy-focused, secure, and open-source.
+All the plugins and or themes that i present to you are privacy focussed, secure and open source.
 
 ---
 
