@@ -1,52 +1,52 @@
 # Security & Privacy Policy
 
-Welkom bij de security en privacy policy voor deze repository. Hierin vind je informatie over hoe wij omgaan met beveiligingskwesties én privacyvraagstukken rondom deze WordPress plugins en themes index.
+Welcome to the security and privacy policy for this repository. This document explains how we handle security issues and privacy matters regarding the index of WordPress plugins and themes in this repository.
 
 ---
 
 ## 1. Security Policy
 
-### Kwetsbaarheid melden
+### Reporting a Vulnerability
 
-Heb je een beveiligingsprobleem gevonden in een van de geïndexeerde plugins, themes of in deze repository? Meld dit dan alsjeblieft op de volgende manier:
+If you have found a security issue in any of the indexed plugins, themes, or in this repository itself, please report it as follows:
 
-- **Stuur een privébericht via X (Twitter):** [https://x.com/DevJohnOltmans](https://x.com/DevJohnOltmans)
-- **Gebruik als onderwerp:** Security Issue
-- **Beschrijf het probleem duidelijk en geef stappen om het te reproduceren, indien mogelijk.**
+- **Send a direct message via X (formerly Twitter):** [https://x.com/DevJohnOltmans](https://x.com/DevJohnOltmans)
+- **Include as subject:** Security Issue
+- **Clearly describe the problem and provide steps to reproduce if possible.**
 
-Wij streven ernaar binnen 5 werkdagen te reageren op gemelde kwetsbaarheden.
+We aim to respond to reported vulnerabilities within 5 business days.
 
 ### Responsible Disclosure
 
-Wij waarderen het als je gevonden kwetsbaarheden eerst privé bij ons meldt en ons de kans geeft om deze op te lossen voordat je details openbaar maakt.
+We appreciate it if you report discovered vulnerabilities privately first and allow us the opportunity to resolve them before disclosing any details publicly.
 
 ---
 
 ## 2. Privacy Policy
 
-### Transparantie en privacy
+### Transparency and Privacy
 
-Deze repository is bedoeld als index van WordPress plugins en themes. Wij verwerken en bewaren géén persoonsgegevens van gebruikers van deze repository.
+This repository serves as an index for WordPress plugins and themes. We do not process or store any personal data from users of this repository.
 
-#### Welke data verwerken wij?
+#### What data do we process?
 
-- **Publiek beschikbare gegevens:** Alleen data die al publiek zichtbaar is op GitHub of in de betreffende plugins/themes.
-- **Geen tracking:** Wij gebruiken geen tracking of analytische tools in deze repository.
-- **Geen externe gegevensdeling:** Gegevens uit deze repository worden niet gedeeld met derden.
+- **Publicly available data:** Only data that is already publicly visible on GitHub or in the respective plugins/themes.
+- **No tracking:** We do not use tracking or analytics tools in this repository.
+- **No external data sharing:** Data from this repository is not shared with third parties.
 
-#### Jouw rechten
+#### Your rights
 
-Als je vindt dat er toch privacygevoelige informatie in deze repository staat, neem dan contact op via [https://x.com/DevJohnOltmans](https://x.com/DevJohnOltmans), zodat wij dit kunnen corrigeren of verwijderen.
+If you believe that privacy-sensitive information is present in this repository, please contact us via [https://x.com/DevJohnOltmans](https://x.com/DevJohnOltmans) so we can correct or remove it.
 
 ---
 
 ## 3. Contact
 
-Voor vragen over security of privacy:
+For any questions about security or privacy:
 
-- **X (voorheen Twitter):** [https://x.com/DevJohnOltmans](https://x.com/DevJohnOltmans)
-- **Issues:** Je kunt ook een [GitHub Issue](../../issues) aanmaken, maar deel daarin nooit gevoelige informatie.
+- **X (formerly Twitter):** [https://x.com/DevJohnOltmans](https://x.com/DevJohnOltmans)
+- **Issues:** You may also create a [GitHub Issue](../../issues), but never share sensitive information in a public issue.
 
 ---
 
-Bedankt voor je hulp bij het veilig en privacyvriendelijk houden van deze repository!
+Thank you for your help in keeping this repository secure and privacy-friendly!
