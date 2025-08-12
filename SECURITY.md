@@ -55,20 +55,16 @@ If you believe that privacy-sensitive information is present in any JOLT reposit
 
 ## 3. Usage & License
 
-All JOLT projects in this repository are related to WordPress and are subject to the general rules and guidelines provided by WordPress.
-
-However, please note the following conditions:
+All JOLT projects in this repository are related to WordPress and are subject to the GNU General Public License (GPL), as required by WordPress.
 
 - **Permitted Use:**  
-  - You are allowed to use these projects as intended and review the source code for transparency and learning purposes.
-- **Prohibited Actions:**  
-  - You may not modify, adapt, or create derivative works from the code.
-  - You may not republish or redistribute the code, in whole or in part, in your own or other projects.
-  - Commercial use, resale, or sublicensing of the code is not permitted.
+  - You are free to use, study, modify, and redistribute the code, as long as you comply with the terms of the GPL.
 - **Respect for Original Work:**  
-  - While the code is open for inspection, all rights to the code remain with the original author. Unauthorized copying or reuse is strictly prohibited.
+  - While the GPL allows modification and redistribution, I kindly ask that you give credit to the original author and maintain transparency about any changes you make.
+  - Please do not misrepresent your work as mine.
+  - If you have questions about proper use or attribution, feel free to contact me.
 
-By using these projects, you agree to respect these terms. If you have any questions or wish to request permission for a specific use, please contact me via [https://x.com/DevJohnOltmans](https://x.com/DevJohnOltmans).
+By using these projects, you agree to respect both the letter and the spirit of the GPL license. For more information, see [GPL v2](https://www.gnu.org/licenses/gpl-2.0.html).
 
 ---
 
