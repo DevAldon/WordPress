@@ -1,6 +1,6 @@
-# Security & Privacy Policy
+# Security, Privacy & Usage Policy
 
-Welcome to the security and privacy policy for all JOLT projects. This document explains how we handle security issues and privacy matters regarding the index of WordPress plugins and themes, as well as all other JOLT repositories.
+Welcome to the security, privacy, and usage policy for all JOLT projects. This document explains how we handle security issues, privacy matters, and the permitted use of the code within all repositories under the JOLT name, including the WordPress plugins and themes index.
 
 ---
 
@@ -53,13 +53,32 @@ If you believe that privacy-sensitive information is present in any JOLT reposit
 
 ---
 
-## 3. Contact
+## 3. Usage & License
 
-For any questions about security or privacy:
+All JOLT projects in this repository are related to WordPress and are subject to the general rules and guidelines provided by WordPress.
+
+However, please note the following conditions:
+
+- **Permitted Use:**  
+  - You are allowed to use these projects as intended and review the source code for transparency and learning purposes.
+- **Prohibited Actions:**  
+  - You may not modify, adapt, or create derivative works from the code.
+  - You may not republish or redistribute the code, in whole or in part, in your own or other projects.
+  - Commercial use, resale, or sublicensing of the code is not permitted.
+- **Respect for Original Work:**  
+  - While the code is open for inspection, all rights to the code remain with the original author. Unauthorized copying or reuse is strictly prohibited.
+
+By using these projects, you agree to respect these terms. If you have any questions or wish to request permission for a specific use, please contact me via [https://x.com/DevJohnOltmans](https://x.com/DevJohnOltmans).
+
+---
+
+## 4. Contact
+
+For any questions about security, privacy, or permitted use:
 
 - **X (formerly Twitter):** [https://x.com/DevJohnOltmans](https://x.com/DevJohnOltmans)
 - **Issues:** You may also create a [GitHub Issue](../../issues), but never share sensitive information in a public issue.
 
 ---
 
-Thank you for your help in keeping JOLT projects secure and privacy-friendly!
+Thank you for your help in keeping JOLT projects secure, privacy-friendly, and respectful of the intended usage!
