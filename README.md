@@ -22,6 +22,7 @@ All the plugins and or themes that i present to you are [privacy focussed, secur
 - [ThemeFork](https://github.com/johnoltmans/JOLT-ThemeFork)
 - [JOLT Gate](https://github.com/johnoltmans/JOLT-Gate)
 - [JOLT Cleanify](https://github.com/johnoltmans/JOLT-Cleanify) (In progress)
+- JOLT UPXtender (In Progress)
 
 ---
 
