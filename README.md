@@ -20,9 +20,9 @@ All the plugins and or themes that i present to you are [privacy focussed, secur
 - [UploadFlex](https://github.com/johnoltmans/JOLT-UploadFlex/tree/main)
 - [LoadSense](https://github.com/johnoltmans/JOLT-LoadSense)
 - [ThemeFork](https://github.com/johnoltmans/JOLT-ThemeFork)
-- [JOLT Gate](https://github.com/johnoltmans/JOLT-Gate)
-- [JOLT Cleanify](https://github.com/johnoltmans/JOLT-Cleanify) (In progress)
-- JOLT UPXtender (In Progress)
+- [Gate](https://github.com/johnoltmans/JOLT-Gate)
+- [Cleanify](https://github.com/johnoltmans/JOLT-Cleanify) (In progress)
+- UPXtender (In Progress)
 
 ---
 
