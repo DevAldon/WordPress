@@ -21,7 +21,7 @@ All the plugins and or themes that i present to you are [privacy focussed, secur
 - [LoadSense](https://github.com/johnoltmans/JOLT-LoadSense)
 - [ThemeFork](https://github.com/johnoltmans/JOLT-ThemeFork)
 - [Gate](https://github.com/johnoltmans/JOLT-Gate)
-- [Cleanify](https://github.com/johnoltmans/JOLT-Cleanify) (In progress)
+- [Cleanify](https://github.com/johnoltmans/JOLT-Cleanify)
 
 ---
 
