@@ -6,11 +6,7 @@ Here I'll be indexing plugins and themes I've created for WordPress.<br>
 
 All the plugins and or themes that i present to you are [privacy focussed, secure and open source](https://github.com/johnoltmans/WordPress/blob/main/SECURITY.md).
 
-
-
-
-
-
+I am always working on something new. Keep a eye on the [roadmap](https://github.com/users/johnoltmans/projects/9/views/1?layout=board "roadmap") for what is coming:
 
 ---
 
