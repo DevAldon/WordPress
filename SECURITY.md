@@ -23,7 +23,7 @@ If you have any questions about my development approach or want to contribute, f
 
 If you have found a security issue in any JOLT project, please report it as follows:
 
-- **Send a direct message via X (formerly Twitter):** [https://x.com/DevJohnOltmans](https://x.com/DevJohnOltmans)
+- **Send a direct message via X (formerly Twitter):** [https://x.com/AldonDev](https://x.com/AldonDev)
 - **Include as subject:** Security Issue
 - **Clearly describe the problem and provide steps to reproduce if possible.**
 
@@ -49,7 +49,7 @@ JOLT projects do not process or store any personal data from users unless explic
 
 #### Your rights
 
-If you believe that privacy-sensitive information is present in any JOLT repository, please contact us via [https://x.com/DevJohnOltmans](https://x.com/DevJohnOltmans) so we can correct or remove it.
+If you believe that privacy-sensitive information is present in any JOLT repository, please contact us via [https://x.com/AldonDev](https://x.com/AldonDev) so we can correct or remove it.
 
 ---
 
@@ -64,7 +64,7 @@ All JOLT projects in this repository are related to WordPress and are subject to
   - Please do not misrepresent your work as mine.
   - If you have questions about proper use or attribution, feel free to contact me.
 
-By using these projects, you agree to respect both the letter and the spirit of the GPL license. For more information, see [GPL v2](https://www.gnu.org/licenses/gpl-2.0.html).
+By using these projects, you agree to respect both the letter and the spirit of the GPL license. For more information, see [GPL v3](https://www.gnu.org/licenses/gpl-3.0.html).
 
 ---
 
@@ -72,7 +72,7 @@ By using these projects, you agree to respect both the letter and the spirit of 
 
 For any questions about security, privacy, or permitted use:
 
-- **X (formerly Twitter):** [https://x.com/DevJohnOltmans](https://x.com/DevJohnOltmans)
+- **X (formerly Twitter):** [https://x.com/AldonDev](https://x.com/AldonDev)
 - **Issues:** You may also create a [GitHub Issue](../../issues), but never share sensitive information in a public issue.
 
 ---
