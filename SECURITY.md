@@ -78,3 +78,7 @@ For any questions about security, privacy, or permitted use:
 ---
 
 Thank you for your help in keeping JOLT projects secure, privacy-friendly, and respectful of the intended usage!
+
+---
+
+(Last update is made on 8-26-2025)
