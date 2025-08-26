@@ -27,11 +27,11 @@ If you have found a security issue in any JOLT project, please report it as foll
 - **Include as subject:** Security Issue
 - **Clearly describe the problem and provide steps to reproduce if possible.**
 
-We aim to respond to reported vulnerabilities within 5 business days.
+I aim to respond to reported vulnerabilities as soon as i can.
 
 ### Responsible Disclosure
 
-We appreciate it if you report discovered vulnerabilities privately first and allow us the opportunity to resolve them before disclosing any details publicly.
+I appreciate it if you report discovered vulnerabilities privately first and allow us the opportunity to resolve them before disclosing any details publicly.
 
 ---
 
@@ -49,7 +49,7 @@ JOLT projects do not process or store any personal data from users unless explic
 
 #### Your rights
 
-If you believe that privacy-sensitive information is present in any JOLT repository, please contact us via [https://x.com/AldonDev](https://x.com/AldonDev) so we can correct or remove it.
+If you believe that privacy-sensitive information is present in any JOLT repository, please contact us via [https://x.com/AldonDev](https://x.com/AldonDev) so i can correct or remove it.
 
 ---
 
